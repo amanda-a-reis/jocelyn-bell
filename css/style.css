@@ -1,0 +1,33 @@
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+
+strong {
+    color: rgb(45, 151, 45);
+}
+
+img {
+    border: 10px solid white;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+img#alien {
+    border: 10px solid green;
+    border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    color: rgb(113, 113, 163)
+    
+}
